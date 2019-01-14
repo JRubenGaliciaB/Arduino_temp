@@ -1,5 +1,5 @@
 # Arduino_temp
-Arduino UNO temp measurement with ds18b20
+Arduino UNO temperature measurement with ds18b20 sensor
 
 #include <OneWire.h>                 
 #include <DallasTemperature.h>
